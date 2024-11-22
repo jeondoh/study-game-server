@@ -1,4 +1,0 @@
-3
-enemyA.txt
-enemyB.txt
-enemyC.txt
