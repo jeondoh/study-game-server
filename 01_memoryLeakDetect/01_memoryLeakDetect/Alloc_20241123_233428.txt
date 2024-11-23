@@ -1,0 +1,2 @@
+LEAK [0x0000024D4A8A9E00] [88] [D:\develop\procademy\studyGameServer\01_memoryLeakDetect\01_memoryLeakDetect\main.cpp] : [35]
+LEAK [0x0000024D4A8AA7B0] [8] [D:\develop\procademy\studyGameServer\01_memoryLeakDetect\01_memoryLeakDetect\main.cpp] : [36]

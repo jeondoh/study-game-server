@@ -1,0 +1,2 @@
+LEAK [0x0139BDA0] [84] [D:\develop\procademy\studyGameServer\01_memoryLeakDetect\01_memoryLeakDetect\main.cpp] : [72]
+LEAK [0x0138E670] [8] [D:\develop\procademy\studyGameServer\01_memoryLeakDetect\01_memoryLeakDetect\main.cpp] : [73]
